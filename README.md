@@ -1,4 +1,4 @@
-# Hi there, I'm Hik-ai1 👋
+# Hi there, 👋
 
 I am an AI Software Engineering student at Maestro.ai University, focused on building intelligent applications, designing agentic workflows, and mastering the modern AI stack. 
 
